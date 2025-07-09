@@ -1,36 +1,79 @@
 📱 Mobile Sales Dashboard – Power BI Project
 
-This project presents an interactive Power BI dashboard that analyzes and visualizes mobile phone sales data across multiple cities in India. It provides key insights for business stakeholders and decision-makers in retail and mobile distribution.
+Project Title 
+📊 Mobile Market Insights: A Power BI Sales Dashboard
+An interactive Power BI dashboard that visualizes mobile phone sales across Indian cities, analyzing trends by brand, model, geography, payment method, and customer behavior.
 
-📊 Features:
-Total Sales: ₹769M across all brands and cities
+🎯 Short Description 
+This dashboard was built to analyze a year’s worth of mobile phone sales data across India. It allows users to drill down into city-wise performance, customer preferences, and sales trends using filters like brand, payment mode, and day of week. Ideal for sales teams, retail analysts, and mobile distribution managers.
 
-Quantity Sold: 19K units
+🧰 Tech Stack
+The dashboard was created using the following tools and technologies:
 
-Transactions: 4K transactions
+📊 Power BI Desktop – Main tool for dashboard creation
 
-Top Brands: Apple, Samsung, OnePlus, Vivo, Xiaomi
+📂 Power Query Editor – Data cleaning and transformation
 
-Customer Ratings: Breakdown by 1–5 stars
+🧠 DAX – For calculated measures and KPIs (Total Sales, Quantity, Avg Sales)
 
-Sales Geography: Geo-map of city-wise sales performance
+🗂️ Data Modeling – Established relationships among columns (brand, date, city)
 
-Payment Modes: Cash, Card, UPI, and more
+📁 File Types – .pbix (Power BI file), .png (dashboard preview)
 
-Monthly Trends: Track changes in quantity and sales throughout the year
+📦 Data Source
+Format: CSV file
 
-Slicers: Filter by brand, mobile model, payment method, and day of week
+Contains:
 
-🛠️ Tools Used:
-Power BI Desktop
+•	Brand, Model, Quantity, Sales
 
-Power Query for data transformation
+•	Payment Method (UPI, Cash, Debit/Credit Card)
 
-DAX for calculated fields and KPIs
+•	Customer Ratings (1 to 5)
 
-CSV dataset for sales transactions
+•	Sales Date, Day Name, and City info
 
-📁 File Format:
-.pbix – Power BI file
+•	Size: 19K records | ₹769M total sales | 4K transactions
 
-.png – Dashboard snapshot
+
+✨ Features 
+1) Business Problem
+Mobile retailers and manufacturers often lack centralized visual tools to track granular sales data and purchasing behavior across cities and product lines.
+
+2) Goal of the Dashboard
+To provide a user-friendly, visual solution that:
+
+•	Displays KPIs like total sales, average order value, and total units sold
+
+•	Highlights customer satisfaction and preferred payment methods
+
+•	Supports sales forecasting and inventory planning by brand and city
+
+
+3) Walkthrough of Key Visuals:
+•	KPIs (Top Row): Total Sales ₹769M, Quantity 19K, Transactions 4K, Avg Sales ₹40K
+
+•	Geo Map: Interactive city-wise total sales
+
+•	Time Series Charts: Sales and quantity trends across 12 months
+
+•	Donut & Bar Charts: Customer ratings, payment modes, day-wise performance
+
+•	Brand-Level Table: Sales summary for top brands (Apple, Samsung, OnePlus, etc.)
+
+•	Mobile Model Performance: Top-selling models with transaction count
+
+
+Business Impact & Insights
+🏬 Brand Performance: Track which brands and models outperform others
+
+🏙️ Regional Insights: Compare city-wise demand and customer behavior
+
+💳 Payment Trend Analysis: Helps optimize POS systems and offers
+
+📅 Day-based Sales Trends: Useful for planning campaigns and discounts
+
+
+📷 Screenshots
+
+https://github.com/aarushj252gmailcom/Mobile_sales_dashboard/blob/main/Mobile_sales_dashboard.png
